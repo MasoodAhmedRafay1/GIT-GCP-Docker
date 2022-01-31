@@ -9,7 +9,7 @@
 }
 
 .component-button button {
-  background-color: #00e0e0;
+  background-color: rgb(255, 102, 128);
   border: 0;
   font-size: 1.5rem;
   margin: 0 1px 0 0;
@@ -22,6 +22,6 @@
 }
 
 .component-button.orange button {
-  background-color: #05923e;
+  background-color: rgb(240, 78, 186);
   color: pink;
 }
